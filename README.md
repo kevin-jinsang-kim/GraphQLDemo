@@ -1,2 +1,2 @@
 # GraphQLDemo
-Just a simple demo for GraphQL
+Demo to explain and show GraphQL
